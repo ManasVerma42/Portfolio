@@ -22,6 +22,27 @@ export default [
 
             {
                 id:1,
+                img:"SIH.png",
+                title:"Career Craft",
+                details:"One Stop Solution to all your Job-Related Needs.",
+                // hostlink:"https://www.youtube.com/watch?v=0pYzMrELzqk",
+                hostlink:"https://sih-24.vercel.app/",
+                langs:["Python","ReactJS","MongoDB","Scikit-Learn","Node.js","NLTK","Tesseract","Machine Learning"],
+                codelink:"https://github.com/ManasVerma42/SIH-24_Frontend"
+            },
+            
+            {
+                id:1,
+                img:"BitnBuild.png",
+                title:"Retail Sync",
+                details:"Optimizing retail sustainability with real-time inventory management and waste reduction.",
+                hostlink:"",
+                langs:["ReactJS","MongoDB","Node.js","Framer Motion","Chakra UI"],
+                codelink:"https://github.com/ManasVerma42/BnB-24"
+            },
+
+            {
+                id:1,
                 img:"Forge-Finance.png",
                 title:"Forge Finance",
                 details:"A website educating about Finance through Games.",
